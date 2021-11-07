@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515054535101",
+    "project_id": "chatbotapp-23a9a",
+    "storage_bucket": "chatbotapp-23a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515054535101:android:416a3f9436bcf3f90b52d4",
+        "android_client_info": {
+          "package_name": "com.example.chatbotbitirme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515054535101-00irthpta14ll2npikq66djk8ste80on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbotbitirme",
+            "certificate_hash": "f9987f47621eeae3936a14dbb476af4d7c53faf5"
+          }
+        },
+        {
+          "client_id": "515054535101-5pkc5pov5gosieag5r1q3ivdjk3bb2bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqQ6dyNvx8LuBCFScFLmOWg_2Nu2VIYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515054535101-5pkc5pov5gosieag5r1q3ivdjk3bb2bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
